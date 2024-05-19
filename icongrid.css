@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-color:rgb(255, 224, 138);    
+    height: 68vh;
+    background-image: url(https://icongrid.vercel.app/static/media/beeback.21a7b8e984e3ad689f56.png);
+    right: 90px;   
+}
+.img{
+    left:225px;
+    position: absolute;
+    top: 153px;
+}
+.k1{
+    position: absolute;
+    top: 20px;
+    right: 630px;
+}
+.k2{
+    position: absolute;
+    top: 265px;
+    right: 500px;
+}           
+.main1{
+    position: absolute;
+    top: 30%;
+    left: 5%;
+}
+div.be{
+    position:absolute;
+    top: 0%;
+    right: 5px;
+}
